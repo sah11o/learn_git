@@ -1,2 +1,3 @@
-#demo
-#i am learning to use GIT
+demo
+
+i am learning to use GIT
